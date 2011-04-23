@@ -1,0 +1,14 @@
+C:\W\Win\GoogleResults\bin\Release\GoogleResults.exe.config
+C:\W\Win\GoogleResults\bin\Release\GoogleResults.exe
+C:\W\Win\GoogleResults\bin\Release\GoogleResults.pdb
+C:\W\Win\GoogleResults\bin\Release\HtmlAgilityPack.dll
+C:\W\Win\GoogleResults\obj\x86\Release\ResolveAssemblyReference.cache
+C:\W\Win\GoogleResults\obj\x86\Release\GoogleResults.frmAbout.resources
+C:\W\Win\GoogleResults\obj\x86\Release\GoogleResults.frmReports.resources
+C:\W\Win\GoogleResults\obj\x86\Release\GoogleResults.frmMain.resources
+C:\W\Win\GoogleResults\obj\x86\Release\GoogleResults.frmOptions.resources
+C:\W\Win\GoogleResults\obj\x86\Release\GoogleResults.Properties.Resources.resources
+C:\W\Win\GoogleResults\obj\x86\Release\GenerateResource.read.1.tlog
+C:\W\Win\GoogleResults\obj\x86\Release\GenerateResource.write.1.tlog
+C:\W\Win\GoogleResults\obj\x86\Release\GoogleResults.exe
+C:\W\Win\GoogleResults\obj\x86\Release\GoogleResults.pdb

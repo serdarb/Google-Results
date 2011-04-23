@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GoogleResults.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="resultsFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">results.txt</Value>
+    </Setting>
+    <Setting Name="resultsCount" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="lastKeyword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">gelinlik</Value>
+    </Setting>
+    <Setting Name="lastRivalDomains" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">gelinlik.com##gelinlik21.com</Value>
+    </Setting>
+    <Setting Name="googleUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.google.com.tr</Value>
+    </Setting>
+    <Setting Name="lastMyDomain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">gelinlikrehberi.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
